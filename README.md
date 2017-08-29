@@ -70,6 +70,7 @@ Jul. 4|2h(LongQix2)|Shuang, Tianye, Zouye, Leqi, Sunan, Wangbinjie, Zhangpenghui
 Jul. 11|2h(LongQix2)|Shuang, Tianye, Zouye, Leqi, Wangbinjie, Malong, Liulei, Ruiwen, Yixiang, Majing, Liuzuoyu|265/11|5.0(ball)|
 Jul. 18|2h(LongQix2)|Shuang, Tianye, Zouye, Leqi, Yixiang, Sunan, Zhangpenghui |140/7|5.0(ball)|
 Aug. 15|2h(LongQix2.5)|Shuang, Tianye, Zouye, Leqi, Yixiang, Sunan, Liulei, Yiqi, Majing, Sunfang, Wangbinjie, Liuzuoyu, Ruiwen |265/13|5.0(ball)|
+Aug. 22|2h(LongQix1)|Tianye, Yixiang, Wangli, Ruiwen, Sunan |80/5|5.0(ball)|
 
 Shuang
 
@@ -359,6 +360,7 @@ Jul 10|+200|32.5
 Jul 11|29|3.5
 Jul 18|28|-24.5
 Aug 15|-25|-49.5
+Aug 22|-21|-70.5
 
 LiQ
 
@@ -545,6 +547,7 @@ Jul 4|27|-297.5
 Jul 10|+300|2.5
 Jul 18|28|-26.5
 Aug 15|-25|-51.5
+Aug 22|-21|-72.5
 
 Xudong
 
@@ -859,6 +862,7 @@ Date|Event/Fee|Balance
 ----|---------|-------
 Jul 11|29|-29
 Aug 15|-25|-54
+Aug 22|-21|-75
 
 Yixiang
 Date|Event/Fee|Balance
@@ -866,3 +870,4 @@ Date|Event/Fee|Balance
 Jul 11|29|-29
 Jul 18|28|-57
 Aug 15|-25|-82
+Aug 22|-21|-103
